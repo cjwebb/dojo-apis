@@ -1,0 +1,13 @@
+{
+  "name": "dojo-api",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.12.4",
+    "lodash": "^3.9.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.3"
+  }
+}
+
